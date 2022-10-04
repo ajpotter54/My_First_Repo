@@ -1,0 +1,66 @@
+.nav{
+    display: inline-block;
+    text-align: center;
+    padding: 15px;
+    width: 100px;
+    background-color: #666666;
+    color: white;
+}
+
+body{
+    background-color: rgb(253, 253, 253);
+}
+
+nav{
+    background-color: lightgray;
+}
+
+.left{
+    float: left;
+    width: 30%;
+    height: 1000px;
+}
+
+.right{
+    float: right;
+    width: 70%;
+    height: 2000px;
+}
+
+.logo{
+    text-align: center;
+    padding: 30px;
+
+}
+
+.profile{
+    width: 120px;
+}
+
+.sideBar{
+    height: 300px;
+    margin: 30px;
+}
+
+.list{
+    padding-top: 20px;
+}
+
+/* add bold text here */
+
+.headImg{
+    width: 250px;
+    float: left;
+    margin: 20px;
+}
+
+.h1{
+    text-align: center;
+}
+
+
+.gallery{
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+}
